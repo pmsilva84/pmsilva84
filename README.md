@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a CS student who lives in Brazil🇧🇷.
+I'm a CS student who lives in Brazil🇧🇷, I'm like foss software.
+
+Have a good day
 
 <!--
 **pmsilva84/pmsilva84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
