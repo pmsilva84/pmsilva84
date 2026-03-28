@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F82%2Ff3%2F3c%2F82f33c83e658969547fbce1afda7c1b5.gif&f=1&nofb=1&ipt=3aca51b389fc444e4e417b75b8ae13e5d2940302df75c0c4752242e96d2cca0a)
 I'm a CS student who lives in Brazil🇧🇷, I'm like foss software.
 
 Have a good day
