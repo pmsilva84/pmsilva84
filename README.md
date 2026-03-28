@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm a CS student who lives in Brazil🇧🇷, I'm like foss software.
+
 Coisas que acho maneiro:
 - Linux
 - Python
