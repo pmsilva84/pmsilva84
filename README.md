@@ -1,12 +1,16 @@
 ## Hi there 👋
-I'm a CS student who lives in Brazil🇧🇷, I'm like foss software.
+I am a CS student who is trying to get better everyday. I also a open-source enthusiast.
 
-Coisas que acho maneiro:
-- Linux
-- Python
-- CiberSecurity
+### Cool things that I using (at the moment)
 
-Have a good day
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+style= "height: 40px;width:40px; inline;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+style= "height: 40px;width:40px; inline;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+style= "height: 40px;width:40px; inline;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+style= "height: 40px;width:40px; inline;alt='Linux'">
 
 <!--
 **pmsilva84/pmsilva84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
